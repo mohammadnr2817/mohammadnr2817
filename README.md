@@ -1,16 +1,18 @@
-### Hi there 👋
-
 <!--
-**mohammadnr2817/mohammadnr2817** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**coding-mohammad/coding-mohammad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
+<h1 align="start">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Mohammad</h1>
+
+- 👨‍💻 I’m currently developing **Android apps in Kotlin**.
+
+- 💙 A bit of **Flutter** stuff now and then.
+
+- ⚡ What will be next? **I may try Django...**
+
+- 📫 Reach me at **coding.mohammad@gmail.com**.
+
+<!-- Streak States
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coding-mohammad&" alt="coding-mohammad" /></p>
+-->
+![My stats](https://github-readme-stats.vercel.app/api?username=mohammadnr2817&show_icons=true&hide=prs,issues,contribs&count_private=true&theme=radical)
