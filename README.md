@@ -15,4 +15,4 @@
 <!-- Streak States
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coding-mohammad&" alt="coding-mohammad" /></p>
 -->
-![My stats](https://github-readme-stats.vercel.app/api?username=mohammadnr2817&show_icons=true&hide=prs,issues,contribs&count_private=true&theme=radical)
+![My stats](https://github-readme-stats.vercel.app/api?username=mohammadnr2817&show_icons=true&hide=prs,issues,contribs&count_private=true&theme=github_dark )
