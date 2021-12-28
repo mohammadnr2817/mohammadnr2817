@@ -8,7 +8,7 @@
 
 - 💙 A bit of **Flutter** stuff now and then.
 
-- ⚡ What will be next? **I may try Django...**
+- ⚡ What will be next? **I may try FastApi...**
 
 - 📫 Reach me at **coding.mohammad@gmail.com**.
 
