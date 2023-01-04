@@ -6,6 +6,8 @@
 
 - 👨‍💻 I’m currently developing **Android apps in Kotlin**.
 
+- 🤌 Using **Jetpack compose** with joy.
+
 - 💙 A bit of **Flutter** stuff now and then.
 
 - ⚡ What will be next? **I may try FastApi...**
