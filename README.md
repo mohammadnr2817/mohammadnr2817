@@ -10,9 +10,9 @@
 
 - 💙 A bit of **Flutter** stuff now and then.
 
-- ⚡ What will be next? **I may try FastApi...**
+- ⚡ What will be next? **I may try FastApi or other back-end stuff...**
 
-- 🌌 Follow [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mohammadnr2817)
+- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mohammadnr2817)
 
 <!-- Streak States
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coding-mohammad&" alt="coding-mohammad" /></p>
