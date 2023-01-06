@@ -12,7 +12,7 @@
 
 - ⚡ What will be next? **I may try FastApi...**
 
-- 📫 Reach me at **coding.mohammad@gmail.com**.
+- 🌌 Follow [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mohammadnr2817)
 
 <!-- Streak States
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coding-mohammad&" alt="coding-mohammad" /></p>
