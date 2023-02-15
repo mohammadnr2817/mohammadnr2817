@@ -15,8 +15,10 @@
 - <a href="https://www.linkedin.com/in/mohammad-reza-noorzade">
   <img align="left" alt="Nadia's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   <a href="https://twitter.com/mohammadnr2817">
-  <img align="left" alt="mohammadnr2817 | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<!-- Twitter
+  <img align="left" alt="username | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
+-->
 
 <!-- Streak States
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coding-mohammad&" alt="coding-mohammad" /></p>
