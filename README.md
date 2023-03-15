@@ -12,9 +12,10 @@
 
 - ⚡ What will be next? **I may try FastApi or other back-end stuff...**
 
-- <a href="https://www.linkedin.com/in/mohammad-reza-noorzade">
+<!-- Linkedin
+- <a href="https://www.linkedin.com/in/user">
   <img align="left" alt="Nadia's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-  <a href="https://twitter.com/mohammadnr2817">
+-->
 <!-- Twitter
   <img align="left" alt="username | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
