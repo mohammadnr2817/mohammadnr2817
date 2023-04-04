@@ -10,7 +10,7 @@
 
 - 💙 A bit of **Flutter** stuff now and then.
 
-- ⚡ What will be next? **I may try FastApi or other back-end stuff...**
+- ⚡ What will be next? **I may try Ktor or other back-end stuff...**
 
 <!-- Linkedin
 - <a href="https://www.linkedin.com/in/user">
